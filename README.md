@@ -8,6 +8,7 @@ I am a Computer Science undergrad with a stronghold on data structures and algor
 
 * 🌍  I'm based in New Delhi, India
 * ✉️  You can contact me at [singhavnish516@gmail.com](mailto:singhavnish516@gmail.com)
+* 🔗  [Resume](https://drive.google.com/file/d/1ktqu9axKwTcF_ZBWSzzpEkaG26M5-8p5/view?usp=sharing)
 
 ### Skills
 
