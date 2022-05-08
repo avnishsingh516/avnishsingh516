@@ -35,9 +35,7 @@ I am a Computer Science undergrad with a stronghold on data structures and algor
 
 <p align="left"> <a href="https://www.github.com/avnishsingh516" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/avnish-singh-55a52918b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19067955/avnish-singh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-### Socials
 
-<p align="left"> <a href="https://drive.google.com/file/d/1ktqu9axKwTcF_ZBWSzzpEkaG26M5-8p5/view?usp=sharing" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
