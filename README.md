@@ -4,7 +4,7 @@ Hi 👋 My name is Avnish Singh
 SDE and Web developer || Currently looking for SDE role - 2022 Passout
 -------------------------------------------------------
 
-I am a Computer Science undergrad with a stronghold on data structures and algorithms in C and C++. I have also worked with Nodejs for server-side development and React framework for frontend development. Always on the lookout for opportunities to utilize my skills and achieve personal and professional growth while being resourceful, innovative, and dynamic in my work that will lead to a learning experience.
+I am a Computer Science 2022 passout with a stronghold on data structures and algorithms in C and C++ and currently working as a SDE Trainee @Nagarro. I have also worked with Nodejs for server-side development and React framework for frontend development. Always on the lookout for opportunities to utilize my skills and achieve personal and professional growth while being resourceful, innovative, and dynamic in my work that will lead to a learning experience.
 
 * 🌍  I'm based in New Delhi, India
 * ✉️  You can contact me at [singhavnish516@gmail.com](mailto:singhavnish516@gmail.com)
